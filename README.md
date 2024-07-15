@@ -43,4 +43,4 @@ y muchos más, incluyendo arquitectura de código y reutilización.
 Desde la carpeta raíz del proyecto, instala todas las dependencias: `npm install`
 
 ## Ayuda
-Si necesitas asistencia o tienes preguntas sobre el proyecto, no dudes en contactarme a través de mi correo electrónico: [miltonpaucar99@gmail.com](mailto:miltonpaucar99@gmail.com).
+Si necesitas asistencia o tienes preguntas sobre el proyecto, no dudes en contactarme a través de mi correo electrónico: [miltonpaucar99@gmail.com](mailto:miltonpaucar99@gmail.com)..
