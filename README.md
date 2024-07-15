@@ -15,10 +15,15 @@ Este proyecto utiliza:
 - **Axios**
 
 ## Vista previa
-![Vista previa 1](https://raw.githubusercontent.com/miltonAlan/react-mind-meld-gpt-chat-clone/master/capture1.png "Vista previa 1")
+
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/miltonAlan/react-mind-meld-gpt-chat-clone/master/capture1.png" alt="Vista previa 1" title="Vista previa 1">
+</div>
+
 ![Vista previa 2](https://raw.githubusercontent.com/miltonAlan/react-mind-meld-gpt-chat-clone/master/capture2.png "Vista previa 2")
 ![Vista previa 3](https://raw.githubusercontent.com/miltonAlan/react-mind-meld-gpt-chat-clone/master/capture3.png "Vista previa 3")
-![Vista previa 3](https://raw.githubusercontent.com/miltonAlan/react-mind-meld-gpt-chat-clone/master/capture5.png "Vista previa 5")
+![Vista previa 5](https://raw.githubusercontent.com/miltonAlan/react-mind-meld-gpt-chat-clone/master/capture5.png "Vista previa 5")
+
 
 ### Características del Proyecto
 
